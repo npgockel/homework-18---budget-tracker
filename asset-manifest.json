@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/homework-18---budget-tracker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/homework-18---budget-tracker/static/js/main.28ce0b47.chunk.js",
+    "main.js.map": "/homework-18---budget-tracker/static/js/main.28ce0b47.chunk.js.map",
+    "runtime-main.js": "/homework-18---budget-tracker/static/js/runtime-main.ad9d3c5a.js",
+    "runtime-main.js.map": "/homework-18---budget-tracker/static/js/runtime-main.ad9d3c5a.js.map",
+    "static/js/2.db708239.chunk.js": "/homework-18---budget-tracker/static/js/2.db708239.chunk.js",
+    "static/js/2.db708239.chunk.js.map": "/homework-18---budget-tracker/static/js/2.db708239.chunk.js.map",
+    "index.html": "/homework-18---budget-tracker/index.html",
+    "precache-manifest.1bf7b48ae4362427eb454f21c30098da.js": "/homework-18---budget-tracker/precache-manifest.1bf7b48ae4362427eb454f21c30098da.js",
+    "service-worker.js": "/homework-18---budget-tracker/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/homework-18---budget-tracker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.db708239.chunk.js.LICENSE.txt": "/homework-18---budget-tracker/static/js/2.db708239.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/homework-18---budget-tracker/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad9d3c5a.js",
+    "static/js/2.db708239.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.28ce0b47.chunk.js"
+  ]
+}
